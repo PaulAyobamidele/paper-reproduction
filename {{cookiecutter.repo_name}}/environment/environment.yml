@@ -1,0 +1,8 @@
+name: paper-reproduction
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - numpy
+      - torch
+      - scikit-learn
